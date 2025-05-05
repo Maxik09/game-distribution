@@ -49,9 +49,6 @@ A full-stack web application built using PHP and MySQL to manage the digital and
 └── bootstrap.min.css
 /GameDistribution.sql # Database schema and sample data
 
-yaml
-Copy
-Edit
 
 ---
 
