@@ -1,6 +1,6 @@
 #  Game Distribution Management System
 
-A full-stack web application built using PHP and MySQL to manage the digital and physical distribution of video games. The system enables CRUD operations for entities like games, companies, stores, platforms, gamers, and support tickets. Deployed live at [awarspace.com](http://awarspace.com), the platform integrates AJAX-based modals, normalized relational schema, and real-time interface updates.
+A full-stack web application built using PHP and MySQL to manage the digital and physical distribution of video games. The system enables CRUD operations for entities like games, companies, stores, platforms, gamers, and support tickets. Deployed live, the platform integrates AJAX-based modals, normalized relational schema, and real-time interface updates.
 
 ---
 
@@ -29,8 +29,7 @@ A full-stack web application built using PHP and MySQL to manage the digital and
 |--------------|------------------------------------------------|
 | Frontend     | HTML5, CSS3, Bootstrap 5, JavaScript, AJAX     |
 | Backend      | PHP (modular), PDO, Apache                     |
-| Database     | MySQL (normalized schema, join queries)        |
-| Deployment   | awarspace.com (Linux-based web hosting)        |
+| Database     | MySQL (normalized schema, join queries)        |      |
 
 ---
 
@@ -52,7 +51,7 @@ A full-stack web application built using PHP and MySQL to manage the digital and
 
 ---
 
-## 📊 Entity Relationships
+##  Entity Relationships
 
 -  A **Game** can be linked to many **Platforms** and **Stores**
 -  A **Company** can develop/publish many **Games**
