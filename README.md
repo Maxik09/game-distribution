@@ -33,24 +33,6 @@ A full-stack web application built using PHP and MySQL to manage the digital and
 
 ---
 
-##  Project Structure
-
-/database
-└── dbconfig.php # PDO-based database connection
-/game.php
-/gamer.php
-/company.php
-/platform.php
-/store.php
-/support.php
-/assets
-├── style.css
-└── bootstrap.min.css
-/GameDistribution.sql # Database schema and sample data
-
-
----
-
 ##  Entity Relationships
 
 -  A **Game** can be linked to many **Platforms** and **Stores**
